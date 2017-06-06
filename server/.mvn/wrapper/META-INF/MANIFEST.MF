@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: maven-wrapper
+Implementation-Version: 0.1.2
+Implementation-Vendor-Id: io.takari
+Build-Jdk: 1.7.0_67
+Built-By: jvanzyl
+Specification-Title: maven-wrapper
+Created-By: Takari Inc.
+Specification-Version: 0.1.2
+Archiver-Version: Provisio Archiver
+
